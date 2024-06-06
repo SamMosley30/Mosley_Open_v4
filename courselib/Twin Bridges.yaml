@@ -1,0 +1,42 @@
+!!python/object:models.course.Course
+_event_listeners: {}
+handicap_order:
+- 17
+- 9
+- 15
+- 11
+- 1
+- 5
+- 7
+- 13
+- 3
+- 2
+- 8
+- 18
+- 16
+- 12
+- 10
+- 14
+- 4
+- 6
+name: Twin Bridges
+par_order:
+- 4
+- 4
+- 3
+- 4
+- 5
+- 5
+- 4
+- 3
+- 4
+- 4
+- 5
+- 3
+- 4
+- 4
+- 5
+- 3
+- 4
+- 4
+save_path: C:\Users\sammo\Mosley_Open_v4\courselib\Twin Bridges.yaml

@@ -1,0 +1,42 @@
+!!python/object:models.course.Course
+_event_listeners: {}
+handicap_order:
+- 1
+- 7
+- 5
+- 9
+- 13
+- 15
+- 11
+- 17
+- 3
+- 14
+- 12
+- 16
+- 6
+- 18
+- 2
+- 4
+- 10
+- 8
+name: Bull Creek West
+par_order:
+- 5
+- 4
+- 4
+- 4
+- 5
+- 3
+- 4
+- 3
+- 4
+- 4
+- 5
+- 4
+- 5
+- 3
+- 4
+- 4
+- 3
+- 4
+save_path: C:\Users\sammo\Mosley_Open_v4\courselib\Bull Creek West.yaml

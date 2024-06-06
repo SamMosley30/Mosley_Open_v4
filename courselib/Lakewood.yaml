@@ -1,0 +1,42 @@
+!!python/object:models.course.Course
+_event_listeners: {}
+handicap_order:
+- 1
+- 15
+- 5
+- 11
+- 7
+- 9
+- 17
+- 3
+- 13
+- 2
+- 8
+- 4
+- 14
+- 12
+- 16
+- 10
+- 18
+- 6
+name: Lakewood
+par_order:
+- 5
+- 3
+- 4
+- 4
+- 4
+- 4
+- 3
+- 5
+- 4
+- 5
+- 4
+- 4
+- 4
+- 4
+- 3
+- 4
+- 3
+- 5
+save_path: C:\Users\sammo\Mosley_Open_v4\courselib\Lakewood.yaml

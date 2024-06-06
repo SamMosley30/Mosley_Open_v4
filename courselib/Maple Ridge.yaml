@@ -1,0 +1,42 @@
+!!python/object:models.course.Course
+_event_listeners: {}
+handicap_order:
+- 13
+- 17
+- 3
+- 1
+- 7
+- 5
+- 9
+- 11
+- 15
+- 14
+- 4
+- 10
+- 18
+- 2
+- 6
+- 16
+- 8
+- 12
+name: Maple Ridge
+par_order:
+- 4
+- 3
+- 4
+- 4
+- 4
+- 4
+- 5
+- 5
+- 3
+- 5
+- 4
+- 4
+- 3
+- 4
+- 4
+- 3
+- 4
+- 5
+save_path: C:\Users\sammo\Mosley_Open_v4\courselib\Maple Ridge.yaml

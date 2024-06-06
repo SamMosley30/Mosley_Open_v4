@@ -1,0 +1,42 @@
+!!python/object:models.course.Course
+_event_listeners: {}
+handicap_order:
+- 10
+- 8
+- 2
+- 6
+- 14
+- 4
+- 16
+- 12
+- 18
+- 7
+- 17
+- 11
+- 13
+- 3
+- 9
+- 1
+- 15
+- 5
+name: Cider Ridge
+par_order:
+- 4
+- 4
+- 3
+- 4
+- 5
+- 4
+- 4
+- 3
+- 5
+- 4
+- 4
+- 3
+- 4
+- 4
+- 5
+- 4
+- 3
+- 5
+save_path: C:\Users\sammo\Mosley_Open_v4\courselib\Cider Ridge.yaml

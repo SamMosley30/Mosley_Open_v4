@@ -1,0 +1,42 @@
+!!python/object:models.course.Course
+_event_listeners: {}
+handicap_order:
+- 11
+- 3
+- 17
+- 13
+- 9
+- 5
+- 1
+- 7
+- 15
+- 18
+- 16
+- 4
+- 6
+- 14
+- 10
+- 8
+- 12
+- 2
+name: Indian Pines
+par_order:
+- 4
+- 4
+- 3
+- 4
+- 3
+- 5
+- 5
+- 3
+- 4
+- 4
+- 3
+- 4
+- 5
+- 4
+- 3
+- 4
+- 4
+- 4
+save_path: C:\Users\sammo\Mosley_Open_v4\courselib\Indian Pines.yaml
