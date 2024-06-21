@@ -1,0 +1,6 @@
+!!python/object:models.player.Player
+active: false
+mosley_open_handicap: 3
+name: Austin Smith
+save_path: C:\Users\sammo\Mosley_Open_v4\playerlib\Austin Smith.yaml
+twisted_creek_handicap: 3

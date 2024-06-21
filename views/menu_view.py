@@ -37,9 +37,21 @@ class MenuView(ttk.Frame):
         # Create all frame buttons.
         self.course_list_btn = ttk.Button(self, text='Course List')
         self.course_list_btn.grid(row=3, column=0, columnspan=1, sticky=FILL_HORIZONTAL,
-                                  padx=(150, 150), pady=(60, 20))
+                                  padx=(150, 150), pady=(60, 5))
+        self.player_list_btn = ttk.Button(self, text='Player List')
+        self.player_list_btn.grid(row=4, column=0, columnspan=1, sticky=FILL_HORIZONTAL,
+                                  padx=(150, 150), pady=(0, 5))
+        self.score_page_btn = ttk.Button(self, text='Score Entry')
+        self.score_page_btn.grid(row=5, column=0, columnspan=1, sticky=FILL_HORIZONTAL,
+                                  padx=(150, 150), pady=(0,5))
+        self.leaderboard_btn = ttk.Button(self, text='Generate Leaderboard')
+        self.leaderboard_btn.grid(row=6, column=0, columnspan=1, sticky=FILL_HORIZONTAL,
+                                  padx=(150, 150), pady=(0,5))
 
     def set_controller(self, controller):
         """Set the controller and configure button commands."""
         self.controller = controller
         self.course_list_btn.configure(command=controller.show_course_list)
+        self.player_list_btn.configure(command=controller.show_player_list)
+        self.score_page_btn.configure(command=controller.show_score_page)
+        self.leaderboard_btn.configure(command=controller.generate_leaderboard)

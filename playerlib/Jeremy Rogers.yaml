@@ -1,0 +1,6 @@
+!!python/object:models.player.Player
+active: true
+mosley_open_handicap: 19
+name: Jeremy Rogers
+save_path: C:\Users\sammo\Mosley_Open_v4\playerlib\Jeremy Rogers.yaml
+twisted_creek_handicap: 19

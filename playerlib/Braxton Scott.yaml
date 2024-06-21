@@ -1,0 +1,6 @@
+!!python/object:models.player.Player
+active: false
+mosley_open_handicap: 17
+name: Braxton Scott
+save_path: C:\Users\sammo\Mosley_Open_v4\playerlib\Braxton Scott.yaml
+twisted_creek_handicap: 17

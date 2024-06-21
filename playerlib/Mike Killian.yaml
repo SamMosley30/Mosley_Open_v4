@@ -1,0 +1,6 @@
+!!python/object:models.player.Player
+active: false
+mosley_open_handicap: 20
+name: Mike Killian
+save_path: C:\Users\sammo\Mosley_Open_v4\playerlib\Mike Killian.yaml
+twisted_creek_handicap: 22

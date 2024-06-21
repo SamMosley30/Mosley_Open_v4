@@ -1,0 +1,6 @@
+!!python/object:models.player.Player
+active: true
+mosley_open_handicap: 20
+name: Mike Edwards
+save_path: C:\Users\sammo\Mosley_Open_v4\playerlib\Mike Edwards.yaml
+twisted_creek_handicap: 23

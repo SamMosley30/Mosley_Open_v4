@@ -36,4 +36,3 @@ class CourseList(ObservableModel):
     def refresh_course_list(self):
         """Refresh the course list model to get updated/new data then trigger an event."""
         self.course_list = self._load_course_library()
-

@@ -1,0 +1,6 @@
+!!python/object:models.player.Player
+active: true
+mosley_open_handicap: 17
+name: Luke Mosley
+save_path: C:\Users\sammo\Mosley_Open_v4\playerlib\Luke Mosley.yaml
+twisted_creek_handicap: 17

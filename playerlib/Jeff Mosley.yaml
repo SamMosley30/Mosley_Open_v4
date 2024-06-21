@@ -1,0 +1,6 @@
+!!python/object:models.player.Player
+active: true
+mosley_open_handicap: 16
+name: Jeff Mosley
+save_path: C:\Users\sammo\Mosley_Open_v4\playerlib\Jeff Mosley.yaml
+twisted_creek_handicap: 16

@@ -10,13 +10,13 @@
             "request": "launch",
             "program": "${file}",
             "console": "integratedTerminal",
-            "justMyCode": true
+            "justMyCode": false
         },
         {
             "name": "Run GUI",
             "type": "python",
             "request": "launch",
-            "program": "C:\\Users\\sammo\\Mosley Open\\MosleyOpen.py",
+            "program": "C:\\Users\\sammo\\Mosley_Open_v4\\main.py",
             "console": "integratedTerminal",
             "justMyCode": false
         }

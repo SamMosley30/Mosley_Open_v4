@@ -1,0 +1,6 @@
+!!python/object:models.player.Player
+active: true
+mosley_open_handicap: 1
+name: Blake Mozley
+save_path: C:\Users\sammo\Mosley_Open_v4\playerlib\Blake Mozley.yaml
+twisted_creek_handicap: 1

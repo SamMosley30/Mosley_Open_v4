@@ -1,0 +1,6 @@
+!!python/object:models.player.Player
+active: false
+mosley_open_handicap: 9
+name: Joey Scott
+save_path: C:\Users\sammo\Mosley_Open_v4\playerlib\Joey Scott.yaml
+twisted_creek_handicap: 9

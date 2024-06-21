@@ -1,0 +1,6 @@
+!!python/object:models.player.Player
+active: true
+mosley_open_handicap: 14
+name: Karson Teague
+save_path: C:\Users\sammo\Mosley_Open_v4\playerlib\Karson Teague.yaml
+twisted_creek_handicap: 14

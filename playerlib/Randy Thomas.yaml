@@ -1,0 +1,6 @@
+!!python/object:models.player.Player
+active: false
+mosley_open_handicap: 13
+name: Randy Thomas
+save_path: C:\Users\sammo\Mosley_Open_v4\playerlib\Randy Thomas.yaml
+twisted_creek_handicap: 13

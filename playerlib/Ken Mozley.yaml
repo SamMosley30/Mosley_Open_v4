@@ -1,0 +1,6 @@
+!!python/object:models.player.Player
+active: false
+mosley_open_handicap: 20
+name: Ken Mozley
+save_path: C:\Users\sammo\Mosley_Open_v4\playerlib\Ken Mozley.yaml
+twisted_creek_handicap: 25

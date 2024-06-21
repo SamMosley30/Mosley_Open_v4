@@ -39,7 +39,7 @@ class CourseListView(ttk.Frame):
         divider.grid(row=1, column=0, columnspan=3, sticky=FILL_HORIZONTAL)
 
         # Create canvas to hold list of courses.
-        self.canvas = tk.Canvas(self, height=515)
+        self.canvas = tk.Canvas(self, height=565)
         self.canvas.grid(row=2, column=0, columnspan=2, sticky=FILL_FRAME)
         self.canvas.grid_columnconfigure(0, weight=1)
         self.canvas.grid_rowconfigure(0, weight=1)

@@ -1,0 +1,6 @@
+!!python/object:models.player.Player
+active: false
+mosley_open_handicap: 4
+name: Chad Nelms
+save_path: C:\Users\sammo\Mosley_Open_v4\playerlib\Chad Nelms.yaml
+twisted_creek_handicap: 4

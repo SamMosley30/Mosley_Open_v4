@@ -1,0 +1,6 @@
+!!python/object:models.player.Player
+active: false
+mosley_open_handicap: 14
+name: Jackson Glassco
+save_path: C:\Users\sammo\Mosley_Open_v4\playerlib\Jackson Glassco.yaml
+twisted_creek_handicap: 14

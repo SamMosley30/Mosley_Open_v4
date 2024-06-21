@@ -1,0 +1,6 @@
+!!python/object:models.player.Player
+active: true
+mosley_open_handicap: 7
+name: Shane Stone
+save_path: C:\Users\sammo\Mosley_Open_v4\playerlib\Shane Stone.yaml
+twisted_creek_handicap: 7

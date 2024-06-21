@@ -1,0 +1,6 @@
+!!python/object:models.player.Player
+active: true
+mosley_open_handicap: 20
+name: Alex Key
+save_path: C:\Users\sammo\Mosley_Open_v4\playerlib\Alex Key.yaml
+twisted_creek_handicap: 24
